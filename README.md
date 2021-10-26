@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 Linter and prettier were setup as here: https://www.aleksandrhovhannisyan.com/blog/format-code-on-save-vs-code-eslint/
+EOL for windows: https://stackoverflow.com/questions/49228693/how-to-change-eol-for-all-files-from-clrf-to-lf-in-visual-studio-code
 
 ## Available Scripts
 
