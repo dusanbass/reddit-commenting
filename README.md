@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+Linter and prettier were setup as here: https://www.aleksandrhovhannisyan.com/blog/format-code-on-save-vs-code-eslint/
 
 ## Available Scripts
 
